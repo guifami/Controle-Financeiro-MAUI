@@ -1,11 +1,13 @@
-﻿namespace ControleFinanceiro;
+﻿using ControleFinanceiro.View;
+
+namespace ControleFinanceiro;
 
 public partial class App : Application
 {
-	public App()
+	public App(TransactionList listPage)
 	{
 		InitializeComponent();
 
-		MainPage = new AppShell();
+		MainPage = new NavigationPage(listPage);
 	}
 }

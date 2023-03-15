@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ControleFinanceiro.View.TransactionEdit"
+             Title="TransactionEdit">
+    <VerticalStackLayout Spacing="10">
+        <Border
+            Margin="15"
+            Padding="15"
+            BackgroundColor="Black"
+            Stroke="Transparent"
+            StrokeShape="RoundRectangle 30">
+            <Grid ColumnDefinitions="*, 30" RowDefinitions="Auto">
+                <Label
+                    Text="Atualizar"
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    HorizontalOptions="Center"
+                    TextColor="White"
+                    VerticalOptions="Center"/>
+                <Label
+                    Text="X"
+                    Grid.Row="0"
+                    Grid.Column="1"
+                    TextColor="White"
+                    HorizontalOptions="Center"
+                    WidthRequest="17">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="TapGestureRecognizerTapped"/>
+                    </Label.GestureRecognizers>
+                </Label>
+            </Grid>
+        </Border>
+
+        <Label x:Name="LabelError" 
+               TextColor="Red" 
+               IsVisible="False"
+               Margin="30,0"/>
+
+        <Grid Margin="30,0" ColumnDefinitions="*,*">
+            <RadioButton
+                x:Name="RadioIncome"
+                Content=" Receita"
+                IsChecked="True" />
+            <RadioButton
+                x:Name="RadioExpense"
+                Grid.Column="1"
+                Content=" Despesa"
+                HorizontalOptions="End" />
+        </Grid>
+
+        <Entry
+            x:Name="EntryName"
+            Margin="15,0"
+            Placeholder="Nome:" 
+            PlaceholderColor="#a2a2a2" 
+            TextColor="#212224"/>
+
+        <DatePicker x:Name="DatePickerDate" Margin="{OnPlatform Default='15,0',  MacCatalyst='15, 15, 15, 0'}" TextColor="#212224"/>
+
+        <Entry
+            x:Name="EntryValue"
+            Margin="15,0"
+            Placeholder="Valor:" 
+            PlaceholderColor="#a2a2a2"
+            TextColor="#212224"/>
+
+        <Button
+            Clicked="OnSaveButtonClicked"
+            Margin="15,10"
+            HorizontalOptions="Center"
+            Text="Salvar" 
+            FontSize="13"
+            TextColor="#212224"/>
+
+    </VerticalStackLayout>
+</ContentPage>

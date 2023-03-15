@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "O49cCfdf0VMpE6+/3wt02xvJWvLlNqUjULNzMTWov3vCWuCFIR/JQ66hTZXoQx9NYHsHvPlqCwfez7z8lliz7w==",
+  "dgSpecHash": "24bCBvIc3yg7eeo0RsJ4qIoM8LQ9EmOp15rrnqAO0uGBRl61QbNRdHh5+HA3IrXyduHgmNG9YB9d9V5VAbpvQw==",
   "success": true,
   "projectFilePath": "C:\\Users\\AMD\\Documents\\Projetos\\Controle-Financeiro-MAUI\\ControleFinanceiro\\ControleFinanceiro.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\AMD\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512",
     "C:\\Users\\AMD\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\AMD\\.nuget\\packages\\litedb\\5.0.15\\litedb.5.0.15.nupkg.sha512",
     "C:\\Users\\AMD\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",

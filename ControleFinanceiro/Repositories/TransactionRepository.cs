@@ -8,9 +8,9 @@ namespace ControleFinanceiro.Repositories
     {
         private readonly LiteDatabase _database;
         private readonly string colletionName = "transactions";
-        public TransactionRepository() 
+        public TransactionRepository(LiteDatabase database) 
         {
-            _database = new LiteDatabase("Filename=...;Connection=Shared");
+            _database = database;
         }
 
         public List<Transaction> GetAll()

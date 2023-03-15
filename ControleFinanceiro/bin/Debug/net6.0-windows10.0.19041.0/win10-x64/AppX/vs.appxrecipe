@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-06T16:42:37.521</Modified>
+      <Modified>2023-03-15T03:48:37.343</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-06T16:42:37.194</Modified>
+      <Modified>2023-03-15T03:48:36.881</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ControleFinanceiro.runtimeconfig.json">
       <PackagePath>ControleFinanceiro.runtimeconfig.json</PackagePath>
-      <Modified>2023-03-06T16:42:37.029</Modified>
+      <Modified>2023-03-15T03:37:43.947</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ControleFinanceiro.dll">
       <PackagePath>ControleFinanceiro.dll</PackagePath>
-      <Modified>2023-03-06T16:42:36.010</Modified>
+      <Modified>2023-03-15T03:48:36.080</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ControleFinanceiro.exe</PackagePath>
-      <Modified>2023-03-06T16:42:36.025</Modified>
+      <Modified>2023-03-15T03:48:36.122</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.10\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -966,6 +966,14 @@
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2022-08-17T03:26:26.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AMD\.nuget\packages\communitytoolkit.mvvm\8.1.0\lib\net6.0\CommunityToolkit.Mvvm.dll">
+      <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
+      <Modified>2023-01-17T22:56:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AMD\.nuget\packages\litedb\5.0.15\lib\netstandard2.0\LiteDB.dll">
+      <PackagePath>LiteDB.dll</PackagePath>
+      <Modified>2022-12-23T23:01:16.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\.nuget\packages\microsoft.extensions.configuration\6.0.1\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
       <Modified>2022-02-24T00:12:18.000</Modified>
@@ -1064,7 +1072,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ControleFinanceiro.deps.json">
       <PackagePath>ControleFinanceiro.deps.json</PackagePath>
-      <Modified>2023-03-06T16:42:37.370</Modified>
+      <Modified>2023-03-15T03:48:37.226</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.541\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1084,23 +1092,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.498</Modified>
+      <Modified>2023-03-15T03:36:15.092</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.509</Modified>
+      <Modified>2023-03-15T03:36:15.102</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.522</Modified>
+      <Modified>2023-03-15T03:36:15.121</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.546</Modified>
+      <Modified>2023-03-15T03:36:15.151</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.640</Modified>
+      <Modified>2023-03-15T03:36:15.243</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -1112,147 +1120,147 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-03-06T16:42:35.672</Modified>
+      <Modified>2023-03-15T03:36:15.269</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.793</Modified>
+      <Modified>2023-03-15T03:36:15.393</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.801</Modified>
+      <Modified>2023-03-15T03:36:15.401</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.808</Modified>
+      <Modified>2023-03-15T03:36:15.409</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.821</Modified>
+      <Modified>2023-03-15T03:36:15.422</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.868</Modified>
+      <Modified>2023-03-15T03:36:15.472</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.674</Modified>
+      <Modified>2023-03-15T03:36:15.272</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.676</Modified>
+      <Modified>2023-03-15T03:36:15.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.679</Modified>
+      <Modified>2023-03-15T03:36:15.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.681</Modified>
+      <Modified>2023-03-15T03:36:15.278</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.685</Modified>
+      <Modified>2023-03-15T03:36:15.281</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.714</Modified>
+      <Modified>2023-03-15T03:36:15.310</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.717</Modified>
+      <Modified>2023-03-15T03:36:15.313</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.721</Modified>
+      <Modified>2023-03-15T03:36:15.317</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.728</Modified>
+      <Modified>2023-03-15T03:36:15.322</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.739</Modified>
+      <Modified>2023-03-15T03:36:15.335</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.698</Modified>
+      <Modified>2023-03-15T03:36:15.294</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.700</Modified>
+      <Modified>2023-03-15T03:36:15.296</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.702</Modified>
+      <Modified>2023-03-15T03:36:15.298</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.706</Modified>
+      <Modified>2023-03-15T03:36:15.301</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.711</Modified>
+      <Modified>2023-03-15T03:36:15.307</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.686</Modified>
+      <Modified>2023-03-15T03:36:15.282</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.688</Modified>
+      <Modified>2023-03-15T03:36:15.284</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.690</Modified>
+      <Modified>2023-03-15T03:36:15.286</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.692</Modified>
+      <Modified>2023-03-15T03:36:15.288</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.695</Modified>
+      <Modified>2023-03-15T03:36:15.291</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.742</Modified>
+      <Modified>2023-03-15T03:36:15.339</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.748</Modified>
+      <Modified>2023-03-15T03:36:15.343</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.754</Modified>
+      <Modified>2023-03-15T03:36:15.349</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.763</Modified>
+      <Modified>2023-03-15T03:36:15.359</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.786</Modified>
+      <Modified>2023-03-15T03:36:15.386</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.700</Modified>
+    <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\close.scale-100.png">
+      <PackagePath>close.scale-100.png</PackagePath>
+      <Modified>2023-03-15T03:36:15.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.708</Modified>
+    <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\close.scale-125.png">
+      <PackagePath>close.scale-125.png</PackagePath>
+      <Modified>2023-03-15T03:36:15.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.716</Modified>
+    <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\close.scale-150.png">
+      <PackagePath>close.scale-150.png</PackagePath>
+      <Modified>2023-03-15T03:36:15.266</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.730</Modified>
+    <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\close.scale-200.png">
+      <PackagePath>close.scale-200.png</PackagePath>
+      <Modified>2023-03-15T03:36:15.267</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-03-06T16:42:35.762</Modified>
+    <AppxPackagedFile Include="C:\Users\AMD\Documents\Projetos\Controle-Financeiro-MAUI\ControleFinanceiro\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\close.scale-400.png">
+      <PackagePath>close.scale-400.png</PackagePath>
+      <Modified>2023-03-15T03:36:15.268</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
