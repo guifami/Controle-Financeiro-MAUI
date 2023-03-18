@@ -59,23 +59,23 @@ public partial class TransactionAdd : ContentPage
 
 		if (string.IsNullOrEmpty(EntryValue.Text) || string.IsNullOrWhiteSpace(EntryValue.Text))
 		{
-            sb.AppendLine("O campo 'Valor' precisa ser preenchido.\n");
-            valid = false;
+			sb.AppendLine("O campo 'Valor' precisa ser preenchido.\n");
+			valid = false;
 
-        }
+		}
 
-        double result;
-		if(!string.IsNullOrEmpty(EntryValue.Text) && !double.TryParse(EntryValue.Text, out result))
+		double result;
+		if (!string.IsNullOrEmpty(EntryValue.Text) && !double.TryParse(EntryValue.Text, out result))
 		{
 			sb.AppendLine("O campo 'Valor' é inválido.\n");
-            valid = false;
+			valid = false;
 
-        }
+		}
 
 		if (!valid)
 			LabelError.IsVisible = true;
-			LabelError.Text = sb.ToString();
+		LabelError.Text = sb.ToString();
 
 		return valid;
-    }
+	}
 }
